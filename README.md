@@ -1,5 +1,6 @@
 # Python_Basic_Course
-This repository consists of lectures and assignments for Basics of Python course
+This repository consists of lectures and assignments for Basics of Python course.
+It also covers the basics of Git and Intro to Git.
 
 ### Course Outline
 
