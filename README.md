@@ -20,3 +20,14 @@ It also covers the basics of Git (clone, branch, satging, comminting and pushing
 | Module 11  | Oops – polymorphism, Encapsulation, Inner Classes |
 | Module 12  | Python modules – Numpy, Pandas, SciPy |
 | Module 13  | Matplotlib, Image Modules |
+
+
+### Git Basics
+#### General Flow
+<img width="844" height="396" alt="image" src="https://github.com/user-attachments/assets/e2ed60c4-bf86-4b1f-8b43-228cc6c31e8c" />
+
+#### Sequence Diagram
+<img width="624" height="416" alt="image" src="https://github.com/user-attachments/assets/2ce24657-5611-438b-8515-a609b2cb1973" />
+
+#### Branches Sequence Diagram
+<img width="1178" height="432" alt="image" src="https://github.com/user-attachments/assets/e37d804d-f089-45e1-8efa-4e0e8f67ceb8" />
